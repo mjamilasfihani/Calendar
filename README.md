@@ -1,2 +1,2 @@
 # Calendar
-A simple calendar built using Electron &amp; Vue
+A lightweight calendar app built using Electron & Vue + Tailwind.
